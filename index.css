@@ -1,0 +1,118 @@
+body {
+    font-family: Helvetica, monospace;
+    font-size: 22px;
+    color: seashell;
+    background-color: black;
+    opacity: 0.9;
+    box-sizing: border-box;
+    display: inline;
+}
+
+header {
+    position: fixed;
+    display: block;
+    border-bottom: 1px solid seashell;
+    height: 69px;
+    width: 100%;
+}
+
+.header img {
+    height: 50px;
+    margin: auto 10px 0px;
+}
+
+ul {
+    text-decoration: underline;
+    list-style: none;
+    display: flex;
+    float: right;
+    margin: auto 8px;
+}
+
+.links li{
+    margin: 10px;
+}
+
+.mission {
+    background-image: url(/Users/macavena/Desktop/Projects/TeaCozy/resources/Images/img-mission-background.jpg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    margin-top: 69px;
+    width: 1200px;
+    height: 700px;
+    text-align: center;
+}
+
+.mission div {
+    background-color: black;
+    width: 1200px;
+}
+
+.month {
+    margin: 50px auto;
+    width: 1000px;
+    text-align: center;
+}
+.tea {
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+    flex-wrap: wrap;
+    margin: 100px auto;
+    max-width: 1000px;
+}
+
+.tea img {
+    width: 300px;
+    height: 200px;
+}
+
+.tea h4 {
+    margin-top: 10px;
+    text-align: center;
+}
+
+.location {
+    background-image: url(/Users/macavena/Desktop/Projects/TeaCozy/resources/Images/img-locations-background.jpg);
+    margin: auto;
+    height: 600px;
+    width: 1200px;
+    display: flex;
+    text-align: center;
+}
+
+.location h2 {
+    margin: 150px auto;
+    width: 1200px;
+    text-align: center;
+    position: absolute;
+}
+
+.places {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    margin-top: 15px;
+    width: 1200px;
+    height: 600px;
+    text-align: center;
+}
+
+.places div {
+    background-color: black;
+    width: 300px;
+    margin: auto 40px;
+}
+
+.contact div {
+    margin: auto;
+    height: 200px;
+    text-align: center;
+}
+
+.contact p {
+    margin-left: 20px;
+}
