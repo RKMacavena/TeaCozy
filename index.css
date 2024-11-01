@@ -36,10 +36,6 @@ ul {
 .mission {
     background-image: url(https://github.com/RKMacavena/TeaCozy/blob/main/img-mission-background.jpg?raw=true);
     display: flex;
-    /*
-    justify-content: center;
-    align-items: center;
-    */
     margin: auto;
     margin-top: 69px;
     width: 1200px;
