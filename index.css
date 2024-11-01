@@ -34,7 +34,7 @@ ul {
 }
 
 .mission {
-    background-image: url(https://github.com/RKMacavena/TeaCozy/blob/7da99dff0e520b0cd662e803a328397ad5cda260/img-mission-background.jpg);
+    background-image: url(https://github.com/RKMacavena/TeaCozy/blob/main/img-missison-background.jpg?raw=true);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -75,7 +75,7 @@ ul {
 }
 
 .location {
-    background-image: url(https://github.com/RKMacavena/TeaCozy/blob/7da99dff0e520b0cd662e803a328397ad5cda260/img-locations-background.jpg);
+    background-image: url(https://github.com/RKMacavena/TeaCozy/blob/main/img-locations-background.jpg?raw=true);
     margin: auto;
     height: 600px;
     width: 1200px;
