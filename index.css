@@ -46,6 +46,7 @@ ul {
 .mission div {
     background-color: black;
     width: 1200px;
+    height: fit-content;
 }
 
 .month {
