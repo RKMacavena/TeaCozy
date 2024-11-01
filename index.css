@@ -47,6 +47,7 @@ ul {
     background-color: black;
     width: 1200px;
     height: fit-content;
+    align-content: center;
 }
 
 .month {
